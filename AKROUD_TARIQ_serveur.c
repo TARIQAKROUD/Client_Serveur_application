@@ -137,19 +137,17 @@ printf("---------------------------------------------\n");
             if(msgs[0]=='y')continue;
 
             else {
-     printf("Merci pour l'utilisation de notre software\n");
+     printf("Merci pour l'utilisation de notre application\n");
     printf("Réalisé par:\n");
-    printf("TARIQ AKROUD         LEILA NIHIRI\n");
-    printf("Encadré par: Professeur Abderahime Hasbi\n");
+    printf("TARIQ AKROUD \n");
     printf("*************************Ecole Mohammadia d'ingenieurs**************************");
              break;}
 
    }
 
-    printf("Merci pour l'utilisation de notre software\n");
+    printf("Merci pour l'utilisation de notre application\n");
     printf("Réalisé par:\n");
-    printf("TARIQ AKROUD         LEILA NIHIRI\n");
-    printf("Encadré par: Professeur Abderahime Hasbi\n");
+    printf("TARIQ AKROUD \n");
     printf("*************************Ecole Mohammadia d'ingenieurs**************************");
     return 0; 
 
