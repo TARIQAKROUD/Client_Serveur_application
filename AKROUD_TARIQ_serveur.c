@@ -68,7 +68,7 @@ printf("---------------------------------------------\n");
 
 
 printf("---------------------------------------------\n");
-	printf("*******Serveur de transfert de fichier realisé par TARIQ AKROUD         LEILA NAHIRI*******\n");
+	printf("*******Serveur de transfert de fichier realisé par TARIQ AKROUD  *******\n");
 	printf("_____________________________________________\n");
 
 
@@ -96,7 +96,7 @@ printf("---------------------------------------------\n");
          printf("_____________________________________________\n");
     	
 
-//commencer le communicatin avec le client
+//commencer la communication avec le client
 
     for(;;){	  
 
